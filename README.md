@@ -35,7 +35,7 @@ The Simple Addition GUI Calculator is a basic graphical user interface (GUI) cal
 
 ## Screen Shots
 
-![Image]()
+![Image](https://github.com/azim-qadri/GUI-Addition-Calculator/blob/main/Screenshot%20(80).png)
 
 
 ## Contribution
