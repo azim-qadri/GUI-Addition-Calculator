@@ -1,4 +1,4 @@
-![image](https://github.com/azim-qadri/GUI-Addition-Calculator/assets/50347784/02da0e34-a260-4e72-be54-be5fd75bd5bc)# GUI-Addition-Calculator
+# GUI-Addition-Calculator
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
