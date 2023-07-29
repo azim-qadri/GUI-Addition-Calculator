@@ -1,4 +1,4 @@
-# GUI-Addition-Calculator
+![image](https://github.com/azim-qadri/GUI-Addition-Calculator/assets/50347784/02da0e34-a260-4e72-be54-be5fd75bd5bc)# GUI-Addition-Calculator
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -32,6 +32,11 @@ The Simple Addition GUI Calculator is a basic graphical user interface (GUI) cal
 8. The result will be displayed in the entry field.
 9. To clear the entry, click the "clear" button.
 10. If you make a mistake while entering a number, use the "<-" button to delete the last digit.
+
+## Screen Shots
+
+![Image]()
+
 
 ## Contribution
 
